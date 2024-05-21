@@ -11,4 +11,4 @@
 
 # Programming:
 - Programmazione evolutive e competitiva (6 CFU)
-- 
+- Modelli e algoritmi di ottimizzazione (6 CFU)
