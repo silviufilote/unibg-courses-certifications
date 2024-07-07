@@ -10,5 +10,5 @@
 - Optimization (3 CFU)
 
 # Software engineering:
-- Evolutionary and competitive programming (6 CFU)
+- Evolutionary and competitive programming: ECP (6 CFU)
 - Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
