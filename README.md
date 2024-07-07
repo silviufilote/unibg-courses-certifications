@@ -9,8 +9,10 @@
 - Machine learning (6 CFU)
 - Optimization (3 CFU)
 
-# Software engineering:
+# Master degree:
 - Evolutionary and competitive programming: (EP,CP) (6 CFU)
 - Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
+
+# Bachelor degree:
 - CI Multimedia internet (6 CFU)
 - Data bases 2: (DB2) (6 CFU)
