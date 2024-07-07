@@ -14,5 +14,10 @@
 - Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
 
 # Bachelor degree:
+- Algebra e logica (6 CFU)
+- Elettrotecnica (6 CFU)
+- Fisica I e II (12 CFU)
+- Fondamenti di automatica (9 CFU)
+- Ingegneria del software (9 CFU)
 - CI Multimedia internet (6 CFU)
 - Data bases 2: (DB2) (6 CFU)
