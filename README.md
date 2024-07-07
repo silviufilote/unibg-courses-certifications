@@ -11,4 +11,4 @@
 
 # Software engineering:
 - Evolutionary and competitive programming (6 CFU)
-- Optimization models and algorithms (6 CFU)
+- Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
