@@ -10,8 +10,8 @@
 - Optimization (3 CFU)
 
 # Master degree:
-- Evolutionary and competitive programming: (EP,CP) (6 CFU)
-- Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
+- Evolutionary and competitive programming (6 CFU): (EP,CP) 
+- Modelli e algoritmi di ottimizzazione (6 CFU): MAO 
 
 # Bachelor degree:
 - Algebra e logica (6 CFU)
