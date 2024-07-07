@@ -9,6 +9,6 @@
 - Machine learning (6 CFU)
 - Optimization (3 CFU)
 
-# Programming:
-- Programmazione evolutive e competitiva (6 CFU)
-- Modelli e algoritmi di ottimizzazione (6 CFU)
+# Software engineering:
+- Evolutionary and competitive programming (6 CFU)
+- Optimization models and algorithms (6 CFU)
