@@ -5,10 +5,19 @@
 - Adaptive Learning, Estimation and Supervision of Dynamical Systems (6 CFU): [ALES](https://cal.unibg.it/courses/adaptive-learning-estimation-and-supervision-of-dynamical-systems/)
 - Artificial intelligence (6 CFU): AI
 - Statistical learning (6 CFU)
-- Statistics for High Dimensional Data (9 CFU) = time series modelling (3 CFU) +  space and space-time data modelling (6 CFU):  S4HDD
+- S4HDD (9 CFU) = Time series modelling (3 CFU) +  Geo-temporal data modelling (6 CFU)
 - Machine learning (6 CFU)
 - Optimization (3 CFU)
 
-# Programming:
-- Programmazione evolutive e competitiva (6 CFU)
-- Modelli e algoritmi di ottimizzazione (6 CFU)
+# Master degree:
+- Evolutionary and competitive programming: (EP,CP) (6 CFU)
+- Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
+
+# Bachelor degree:
+- Algebra e logica (6 CFU)
+- Elettrotecnica (6 CFU)
+- Fisica I e II (12 CFU)
+- Fondamenti di automatica (9 CFU)
+- Ingegneria del software (9 CFU)
+- CI Multimedia internet (6 CFU)
+- Data bases 2: (DB2) (6 CFU)
