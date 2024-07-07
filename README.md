@@ -12,3 +12,4 @@
 # Software engineering:
 - Evolutionary and competitive programming: (EP,CP) (6 CFU)
 - Modelli e algoritmi di ottimizzazione: MAO (6 CFU)
+- CI Multimedia internet (6 CFU)
