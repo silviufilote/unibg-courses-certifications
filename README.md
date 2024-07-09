@@ -27,6 +27,7 @@ Udemy courses:
 - Modelli e algoritmi di ottimizzazione (6 CFU): MAO 
 
 # Bachelor degree:
+- Analisi I (9 CFU)
 - Algebra e logica (6 CFU)
 - Elettrotecnica (6 CFU)
 - Fisica I e II (12 CFU)
