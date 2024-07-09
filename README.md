@@ -34,4 +34,4 @@ Udemy courses:
 - Fondamenti di automatica (9 CFU)
 - Ingegneria del software (9 CFU)
 - CI Multimedia internet (6 CFU)
-- Data bases 2: (DB2) (6 CFU)
+- Data bases 2 (6 CFU): DB2
