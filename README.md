@@ -6,7 +6,8 @@ General courses completely free from MIT OpenCourseWare on youtube
 - Matrix Methods in Data Analysis, Signal Processing: [Gilbert Strang](https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 - Artificial Intelligence: [MIT OpenCourseWare](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi)
 - Math cheatsheet: [matematika](https://www.matematika.it/formulario/33/analisi/)
-- Clone stuff: [Code with Antonio](https://www.youtube.com/@codewithantonio)
+- Cloning apps: [Code with Antonio](https://www.youtube.com/@codewithantonio)
+- Tutorials: [Codevolution](https://www.youtube.com/@Codevolution)
 
 Udemy courses:
 - The Complete Python Bootcamp From Zero to Hero in Python
