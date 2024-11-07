@@ -24,7 +24,7 @@ Udemy courses:
 - Machine learning (6 CFU)
 - Optimization (3 CFU)
 
-# Master degree:
+# Master degree: [Elearning](https://elearning15.unibg.it/)
 - Evolutionary and competitive programming (6 CFU): EP,CP 
 - Modelli e algoritmi di ottimizzazione (6 CFU): MAO
 - Progettazione, algoritmi e computabilità (15):  PA + C + PAC
