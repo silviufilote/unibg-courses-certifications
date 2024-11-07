@@ -40,3 +40,19 @@ Udemy courses:
 - Ingegneria del software (9 CFU)
 - CI Multimedia internet (6 CFU)
 - Data bases 2 (6 CFU): DB2
+
+# Projects 
+- Data Science Project: Cryptocurrencies analysis using machine learning
+- Software engineering project: Comparison between leasing and long-term rental of cars
+- Statistics and Stochastic Models project: air quality analysis (pollutants)
+- Statistics II: Analysis of Historical Time Series
+- Bachelor degree project: time series analysis of the most influential cryptocurrencies and application of a neural network for value prediction
+- Advanced programming project: Java, C, C++ and Haskell projects
+- Statistical learning project in R: Analysis of Graduate Admission dataset
+- Spatiotemporal analysis: applying DCM and HDG models on the traffic recorded in Salt lake city
+- Time series vs machine learning models: testing 2 different approaches on the Agrimonia dataset
+- Optimization project: banana quality classification using convex, lipschitz e smooth theorems
+- PAC: 
+- ALES:
+- Compilatori:
+- Master thesis: 
