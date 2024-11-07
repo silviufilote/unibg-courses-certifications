@@ -29,6 +29,7 @@ Udemy courses:
 - Modelli e algoritmi di ottimizzazione (6 CFU): MAO
 - Progettazione, algoritmi e computabilità (15):  PA + C + PAC
 - Gestione aziendale e dei sistemi logistici (6 CFU): Economia
+- Linguaggi formali e compilatori (9 CFU): LFC
 
 # Bachelor degree:
 - Analisi I (9 CFU)
