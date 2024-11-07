@@ -28,7 +28,7 @@ Udemy courses:
 - Evolutionary and competitive programming (6 CFU): EP,CP 
 - Modelli e algoritmi di ottimizzazione (6 CFU): MAO
 - Progettazione, algoritmi e computabilità (15):  PA + C + PAC
-- Gestione aziendale e dei sistemi logistici (6 CFU): Economia
+- Gestione aziendale e dei sistemi logistici (6 CFU): GAL
 - Linguaggi formali e compilatori (9 CFU): LFC
 
 # Bachelor degree:
