@@ -13,6 +13,8 @@ Udemy courses:
 - The Complete Python Bootcamp From Zero to Hero in Python
 - Complete Time Series Data Analysis Bootcamp In R
 
+Where to find papers to read: [repository](https://dblp.org/) 
+
 # Data science and statistics:
 - Statistica e Modelli Stocastici (6 CFU): SMS1
 - Statistica e Modelli Stocastici II (6 CFU): SMS2
