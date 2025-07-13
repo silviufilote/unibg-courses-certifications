@@ -56,7 +56,6 @@ Where to find papers to read: [repository](https://dblp.org/)
 - Spatiotemporal analysis: applying DCM and HDG models on the traffic recorded in Salt lake city
 - Time series vs machine learning models: testing 2 different approaches on the Agrimonia dataset
 - Optimization project: banana quality classification using convex, lipschitz e smooth theorems
-- PAC: 
-- ALES:
-- Compilatori:
+- PAC: ActionSphere project
+- ALES: Robust Variable Forgetting Factor Recursive Least-Squares Algorithm for System Identification
 - Master thesis: 
