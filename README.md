@@ -33,6 +33,7 @@ Where to find papers to read: [repository](https://dblp.org/)
 - Gestione aziendale e dei sistemi logistici (6 CFU): GAL
 - Linguaggi formali e compilatori (9 CFU): LFC
 - Teoria dell'informazione e della trasmissione (6 CFU): TIT
+- Advanced Data Management (9 CFU): ADM
 
 # Bachelor degree:
 - Analisi I (9 CFU)
